@@ -1,1 +1,3 @@
-# ohbm-brainhack-2026
+# MOSAIC – Motif-based Surface Alignment & Inference of Cortex
+
+![Pipeline]()
